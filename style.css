@@ -1,1 +1,6 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+@import url(//db.onlinewebfonts.com/c/ead4092f880f75ff0883ced1856b2c37?family=SF+Pro+Rounded);
 
+body {font-family: 'SF Pro Display'; color: #fefefe; background-color: #0b0e14;}
+
+h1 {font-family: "SF Pro Rounded"; font-weight: 400;}
